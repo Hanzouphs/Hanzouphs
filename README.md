@@ -27,8 +27,8 @@ I am proactive, focused and persistent, I am always looking to improve and prepa
 ---
 ## **Technologies I study:**
 
-<img src="pngwing.com.png" width="230px" heigth="50px"><img src="pngwing.com1.png" width="230px" heigth="50px"><img src="pngwing.com2.png" width="230px" heigth="50px">
-<img src="pngwing.com3.png" width="230px" heigth="50px"><img src="pngwing.com4.png" width="230px" heigth="50px"><img src="pngwing.com5.png" width="230px" heigth="50px">
+<img src="pngwing.com.png" width="250px" heigth="50px"><img src="pngwing.com1.png" width="250px" heigth="50px"><img src="pngwing.com2.png" width="250px" heigth="50px">
+<img src="pngwing.com3.png" width="250px" heigth="50px"><img src="pngwing.com4.png" width="250px" heigth="50px"><img src="pngwing.com5.png" width="250px" heigth="50px">
 
 
 
