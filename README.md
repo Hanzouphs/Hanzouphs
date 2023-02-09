@@ -27,9 +27,17 @@ I am proactive, focused and persistent, I am always looking to improve and prepa
 ---
 ## **Technologies I study:**
 
-![Tech1](pngwing.com.png)
-![Tech2](pngwing.com1.png)
-![Tech3](pngwing.com2.png)
-![Tech4](pngwing.com3.png)
-![Tech5](pngwing.com4.png)
-![Tech6](pngwing.com5.png)
+<img src="pngwing.com.png" width="230px" heigth="50px">
+<img src="pngwing.com1.png" width="230px" heigth="50px">
+<img src="pngwing.com2.png" width="230px" heigth="50px">
+<img src="pngwing.com3.png" width="230px" heigth="50px">
+<img src="pngwing.com4.png" width="230px" heigth="50px">
+<img src="pngwing.com5.png" width="230px" heigth="50px">
+
+---
+
+### ***Without further ado, welcome!***
+
+
+
+
