@@ -28,8 +28,8 @@ I am proactive, focused and persistent, I am always looking to improve and prepa
 ## **Technologies I study:**
 
 ![Tech1](pngwing.com.png)
-![Tech2](pngwing.com(1).png)
-![Tech3](pngwing.com(2).png)
-![Tech4](pngwing.com(3).png)
-![Tech5](pngwing.com(4).png)
-![Tech6](pngwing.com(5).png)
+![Tech2](pngwing.com (1).png)
+![Tech3](pngwing.com (2).png)
+![Tech4](pngwing.com (3).png)
+![Tech5](pngwing.com (4).png)
+![Tech6](pngwing.com (5).png)
