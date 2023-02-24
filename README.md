@@ -28,7 +28,7 @@ I am proactive, focused and persistent, I am always looking to improve and prepa
 
 ## **Technologies I study:**
 
-[<img src="pngwing.com.png" width="270px" heigth="50px">](https://github.com/Hanzouphs/SiteSpotifyClone)[<img src="pngwing.com1.png" width="270px" heigth="50px">](https://github.com/Hanzouphs/AppSendMail)[<img src="pngwing.com2.png" width="270px" heigth="50px">](https://github.com/Hanzouphs/TwitterClone)
+[<img src="pngwing.com.png" width="270px" heigth="50px">](https://github.com/Hanzouphs/SiteSpotifyClone)[<img src="python.com1.png" width="270px" heigth="50px">](https://github.com/Hanzouphs/Portifolio)[<img src="pngwing.com2.png" width="270px" heigth="50px">](https://github.com/Hanzouphs/TwitterClone)
 [<img src="pngwing.com3.png" width="270px" heigth="50px">](https://github.com/Hanzouphs/JogoDeXadrez)[<img src="pngwing.com4.png" width="270px" heigth="50px">](https://github.com/Hanzouphs/Loja-De-Fast-Food)[<img src="pngwing.com5.png" width="270px" heigth="50px">](https://github.com/Hanzouphs/AppHelpDesk)
 
 
