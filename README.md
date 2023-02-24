@@ -1,7 +1,7 @@
 # **Hi, I'm Pedro** 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-074F97?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dev-phs/)
-[![Instagram](https://img.shields.io/badge/Instagram-074F97?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.instagram.com/hanzou_phs/)
+[![Instagram](https://img.shields.io/badge/Instagram-074F97?&style=for-the-badge&logo=Instagram&logoColor=pink)](https://www.instagram.com/hanzou_phs/)
 
 ## **About me**
 Passionate about development.
